@@ -321,7 +321,7 @@ DB::table('creation_mission')->insert([ 'creation_id' => '26', 'mission_id' => '
 
 
 
-DB::table('users')->insert(['id'=>'1','first_name'=>'thibault','last_name'=>'Van Campenhoudt',"zoho_contact_id"=>'', 'zoho_login'=>'info@organit.fr','zoho_password'=>23127981,'client_id'=>'0','is_commercial'=>'0','comm_1'=>'0','comm_2'=>'0','phone'=>'','phone2'=>'','address'=>'','zip'=>'','city'=>'','country'=>'','email'=>'info@organit.fr','password'=>'$2y$10$dVfYndTWFG0hUgaNKpZ0meIxJe75GKyQBcB.hKdu59X2/FstV7WTS','remember_token'=>'Y6hAFfld6Y','is_admin'=>'0','created_at'=>'','updated_at'=>'',]);
+DB::table('users')->insert(['id'=>'1','first_name'=>'Nicolas','last_name'=>'Milville',"zoho_contact_id"=>'', 'zoho_login'=>'info@organit.fr','zoho_password'=>555,'client_id'=>'0','is_commercial'=>'0','comm_1'=>'0','comm_2'=>'0','phone'=>'','phone2'=>'','address'=>'','zip'=>'','city'=>'','country'=>'','email'=>'nmilville@gmail.com','password'=>bcrypt('nicolas'),'remember_token'=>'Y6hAFfld6Y','is_admin'=>'0','created_at'=>'','updated_at'=>'',]);
 
 
 
