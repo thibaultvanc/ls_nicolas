@@ -1,0 +1,79 @@
+// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+ //@import "node_modules/keen-ui/dist/keen-ui.css";
+ // @import "node_modules/keen-ui/dist/keen-ui.css";
+
+
+
+$icon-font-path: '/node_modules/bootstraqp-sass/assets/fonts/bootstrap';
+$fa-font-path: '/fonts';
+
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+
+// @fa_path: "node_modules/font-awesome/less/";
+// @fa-font-path: "../../fonts";
+
+@import "node_modules/font-awesome/scss/font-awesome";
+// /home/thibault/Code/laravel-webpack/node_modules/font-awesome/scss/font-awesome.scss
+
+
+
+// Variables
+@import "variables";
+
+
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+ // ou
+
+// Bulma
+// @import "node_modules/bulma/bulma";
+
+
+
+
+
+
+// Transitions
+// @import "node_modules/animate.css/animate.css";
+.fade-enter-active, .fade-leave-active {
+    transition: opacity .9s
+}
+.fade-enter, .fade-leave-active {
+      opacity: 0;
+      transform: translateX(20px);
+}
+
+
+.slide-fade-enter-active {
+  transition: all .3s ease;
+}
+.slide-fade-leave-active {
+  transition: all .8s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+}
+.slide-fade-enter, .slide-fade-leave-active {
+  transform: translateX(10px);
+  opacity: 0;
+}
+
+
+.list-enter-active, .list-leave-active {
+  transition: all 1s;
+}
+.list-enter, .list-leave-active {
+  opacity: 0;
+  transform: translateY(30px);
+}
+
+
+
+/*
+** forms
+*/
+form .is-danger {
+  color: #00DFFC
+}

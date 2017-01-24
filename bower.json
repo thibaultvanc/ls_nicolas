@@ -1,0 +1,12 @@
+{
+  "name": "project",
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.5.0",
+    "clipboard": "^1.5.10",
+    "animate.css": "^3.5.0",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.37"
+
+  }
+}

@@ -1,0 +1,211 @@
+
+    <style>
+      /*123*/
+    </style>
+    
+
+
+      <template>
+
+      <section>
+
+       <transition name="slide-fade" appear mode="out-in">
+        <div v-if="mode=='form'" class="bg-primary" key="mode=='form'">
+        DIVE TSET
+        </div>
+
+        <div v-else class="bg-success" key="mode='show'">
+        DIVE TSET
+        </div>
+        </transition>
+
+
+      <div class="page-header">
+
+        <h1>
+        <small>
+        <el-tag type="primary">user</el-tag>
+        </small>
+
+
+        
+          {{ object.firstname }} 
+          {{ object.lastname }} 
+        </h1>
+      </div>
+
+
+      <div class="row">
+
+        <!--
+        <pre>{{object}}</pre>
+        <el-button icon="el-icon-arrow-left" @click.prevent="goBack" tooltip="Go back" type="primary" color="default" class="pull-left" >
+          <i class="el-icon-arrow-left"></i> Back
+        </el-button>
+        -->
+
+      </div>
+      <br>
+      
+
+          <div class="tabbable">
+              <ul class="nav nav-pills nav-stacked col-md-3">
+                  <li class="active"><a href="#general" data-toggle="tab">General</a></li>
+                  <li class=""><a href="#subscriptions" data-toggle="tab">subscriptions**HM**</a></li><li class=""><a href="#invoices" data-toggle="tab">invoices**HM**</a></li><li class=""><a href="#roles" data-toggle="tab">roles**BTM**</a></li><li class=""><a href="#brands" data-toggle="tab">brands**BTM**</a></li><li class=""><a href="#organizations" data-toggle="tab">organizations**BTM**</a></li>
+              </ul>
+              <div class="tab-content col-md-8">
+                  <div class="tab-pane fade in active" id="general">
+                  <el-button v-if="mode=='show'" type="primary" @click="mode='form'">Edit</el-button><el-button v-if="mode=='form'" @click="mode='show'">Cancel</el-button><transition appear name="fade" mode="out-in"> <user-form v-if="mode=='form'" :id="getId"></user-form> </transition><transition appear name="fade" mode="in-out"> <user-show v-if="mode=='show'" :id="getId"></user-show> </transition>
+                  </div>
+                  
+                                 <div class="tab-pane fade in" id="subscriptions">
+                                    <subscriptions from="user" :user="id" :fromId="id" :url="getUrl('subscriptions')"></subscriptions>
+                                 </div>
+
+                                 <div class="tab-pane fade in" id="invoices">
+                                    <invoices from="user" :user="id" :fromId="id" :url="getUrl('invoices')"></invoices>
+                                 </div>
+
+                                 <div class="tab-pane fade in" id="roles">
+                                    <roles from="user" :user="id" :fromId="id" :url="getUrl('roles')"></roles>
+                                 </div>
+
+                                 <div class="tab-pane fade in" id="brands">
+                                    <brands from="user" :user="id" :fromId="id" :url="getUrl('brands')"></brands>
+                                 </div>
+
+                                 <div class="tab-pane fade in" id="organizations">
+                                    <organizations from="user" :user="id" :fromId="id" :url="getUrl('organizations')"></organizations>
+                                 </div>
+
+              </div><!--tab content-->
+          </div>
+          </section>
+
+</template>
+
+<script>
+
+        import Vue from 'vue'
+        
+
+	import userForm from '../form/basic.vue'
+import subscriptions from '../../Subscription/list/basic.vue'
+import invoices from '../../Invoices/list/basic.vue'
+import roles from '../../Role/list/basic.vue'
+import brands from '../../Firm/list/basic.vue'
+import organizations from '../../Organization/list/basic.vue'
+
+
+
+        export default {
+            components: {
+				userForm, 
+				subscriptions, 
+				invoices, 
+				roles, 
+				brands, 
+				organizations, 
+
+            },
+
+            props :{
+                
+                id : {
+                required: true,
+                type : Number
+
+                }
+
+            },
+
+            created () {
+              console.log('this.id -> ', this.id);
+
+              if (typeof this.id == 'number' || typeof this.id == 'string') {
+                // this.id=this.object
+                this.fetchObject()
+              }
+              else if (typeof this.id == 'object') {
+                // this.id=this.getId
+
+              }
+
+
+              var vm = this
+              Event.$on('createdUser', function (createdObject) {
+                console.log('New record has been fired')
+                console.log('created object -> ', createdObject);
+
+                  vm.object=createdObject
+                  vm.mode='show'
+
+                console.log('created object.id -> ', createdObject.id);
+              })
+
+
+
+
+
+            },
+            watch: {
+
+
+            },
+
+            data(){
+                return {
+                    mode:'show', // show | form
+
+                    object:'{}',
+                    
+
+                };
+            },
+
+            filters:{
+
+            },
+            computed : {
+                getId(){
+                    if(this.object.id){
+                      return this.object.id
+                    }
+                    return this.id
+                }
+
+            },
+
+            methods: {
+                goBack(){
+                    window.location.replace('/Picaflor/user')
+                },
+                getUrl(methodName){
+
+                    return '/api/Picaflor/user/'+this.getId+'/'+methodName
+                },
+
+
+                fetchObject () {
+                    var vm=this
+                    axios.get('/api/Picaflor/user/'+this.getId).then(function (response) {
+
+                              vm.object = response.data.data
+
+                              vm.loading=false
+
+                          }, function (response) {
+                              // error callback
+                          });
+                },
+
+
+                larastrapEditionMode () {
+                  return larastrapEditionMode
+                },
+
+            },
+        }
+
+        </script>
+

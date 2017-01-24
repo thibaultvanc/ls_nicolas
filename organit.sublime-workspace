@@ -1,0 +1,1815 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"la",
+				"lang"
+			],
+			[
+				"Adm",
+				"AdminController@dev_cheatsheet_laravel"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"i",
+				"i	Tag"
+			],
+			[
+				"ne",
+				"newFieldValue"
+			],
+			[
+				"fiel",
+				"field"
+			],
+			[
+				"sho",
+				"showCreateFieldButton"
+			],
+			[
+				"edi",
+				"editFieldButtonText"
+			],
+			[
+				"dis",
+				"displayEditFieldForm"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"add",
+				"addFieldButtonIcon"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"fie",
+				"fieldName"
+			],
+			[
+				"new",
+				"newFieldValues"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"fi",
+				"field"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"Rou",
+				"Route::get"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"piv",
+				"pivots"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"Lara",
+				"Laracasts\\Flash\\Flash〔class〕"
+			],
+			[
+				"bel",
+				"beltList"
+			],
+			[
+				"act",
+				"actual_belt"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"arra",
+				"array	$… = array (…)"
+			],
+			[
+				"ab",
+				"absolut"
+			],
+			[
+				"compet",
+				"competition_id"
+			],
+			[
+				"backgroud-",
+				"background-color"
+			],
+			[
+				"ar",
+				"arbitrage"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"ext",
+				"extention"
+			],
+			[
+				"exte",
+				"fa-exclamation-circle"
+			],
+			[
+				"comp",
+				"Competition"
+			],
+			[
+				"slider",
+				"slider_main"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"or",
+				"orderBy"
+			],
+			[
+				"tra",
+				"trainingList"
+			],
+			[
+				"diff",
+				"diffList"
+			],
+			[
+				"arb",
+				"arbitrageList"
+			],
+			[
+				"co",
+				"Competition"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"pho",
+				"competition_photo"
+			],
+			[
+				"sli",
+				"slider_main"
+			],
+			[
+				"has",
+				"hasMany"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"free",
+				"free_compet"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"o",
+				"option	Tag"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"fu",
+				"fun	function …"
+			],
+			[
+				"te",
+				"textBtn"
+			],
+			[
+				"to",
+				"todos"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"ajax",
+				"ajax_seed_client"
+			],
+			[
+				"clien",
+				"client"
+			],
+			[
+				"cli",
+				"clients"
+			],
+			[
+				"cl",
+				"Client"
+			],
+			[
+				"aja",
+				"ajax_call	ajax_call"
+			],
+			[
+				"com",
+				"compact"
+			],
+			[
+				"the",
+				"the_permalink"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"client",
+				"client_id"
+			],
+			[
+				"border-op",
+				"border-top-color"
+			],
+			[
+				"dev",
+				"devis_id"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"sele",
+				"selectedProjects2"
+			],
+			[
+				"slec",
+				"selectedProjects"
+			],
+			[
+				"facr",
+				"FactureController"
+			],
+			[
+				"sh",
+				"showForm"
+			],
+			[
+				"project",
+				"projectList"
+			],
+			[
+				"pro",
+				"Projects"
+			],
+			[
+				"da",
+				"dashboard"
+			],
+			[
+				"id",
+				"idcreation"
+			],
+			[
+				"crea",
+				"creation_id"
+			],
+			[
+				"cre",
+				"creation_id"
+			],
+			[
+				"ce",
+				"creation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 5321,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Middleware/Admin.php",
+			"settings":
+			{
+				"buffer_size": 856,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/admin.blade.php",
+			"settings":
+			{
+				"buffer_size": 4048,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 3413,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/.htaccess",
+			"settings":
+			{
+				"buffer_size": 412,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/WebController.php",
+			"settings":
+			{
+				"buffer_size": 2064,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/web/portfolio.blade.php",
+			"settings":
+			{
+				"buffer_size": 2087,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/admin/table/show.blade.php",
+			"settings":
+			{
+				"buffer_size": 9355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/crud-generator/show.blade.stub",
+			"settings":
+			{
+				"buffer_size": 7895,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/admin/cheatsheet/dev_cheatsheet_laravel.blade.php",
+			"settings":
+			{
+				"buffer_size": 4688,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 222.0,
+		"last_filter": "lower",
+		"selected_items":
+		[
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"rena",
+				"ANF: Rename File"
+			],
+			[
+				"to",
+				"Toggle Comment"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project Manager: Open Project"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"mark",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"git pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git ",
+				"Git: Push"
+			],
+			[
+				"gitcomm",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"terr",
+				"Terminal: Open in project folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"project clo",
+				"Project: Close"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rename f",
+				"ANF: Rename File"
+			],
+			[
+				"extra",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"install ",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal th",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"brows",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"package re",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"LiveReload: ",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inp",
+				"Snippet: input_laravel"
+			],
+			[
+				"inpu",
+				"Snippet: input_laravel"
+			],
+			[
+				"snip in",
+				"Snippet: input_laravel"
+			],
+			[
+				"rename fi",
+				"ANF: Rename File"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"art migra",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"artisan mak m",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"artisan rou",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"art route",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"art ma",
+				"Laravel Artisan 5: Make:Middleware"
+			],
+			[
+				"dele",
+				"ANF: Delete Current File"
+			],
+			[
+				"artisan mi",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"artisan make:mi",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/thibault/Code/organit",
+		"/home/thibault/Code/organit/app/Http/Middleware",
+		"/home/thibault/Code/organit/resources/views/layouts"
+	],
+	"file_history":
+	[
+		"/home/thibault/Code/organit/resources/views/auth/login.blade.php",
+		"/home/thibault/Code/organit/config/app.php",
+		"/home/thibault/Code/organit/composer.json",
+		"/home/thibault/Code/organit/resources/views/admin/cheatsheet/dev_cheatsheet_javascript.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/cheatsheet/dev_cheatsheet_HTML_CSS.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/cheatsheet/dev_cheatsheet_Vue.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/cheatsheet/dev_cheatsheet_laravel.blade.php",
+		"/home/thibault/Code/mlm-valley/public/inlinr_assets/js/custom/app.js",
+		"/home/thibault/Code/organit/vendor/appzcoder/crud-generator/src/Commands/CrudViewCommand.php",
+		"/home/thibault/Code/organit/resources/views/layouts/admin.blade.php",
+		"/home/thibault/Code/mlm-valley/app/Http/routes.php",
+		"/home/thibault/Code/organit/app/Http/Controllers/AdminController.php",
+		"/home/thibault/Code/devil/database/factories/ModelFactory.php",
+		"/home/thibault/Code/organit/resources/views/admin/cheatsheet/dev_cheatsheet_Vue.php",
+		"/home/thibault/Code/organit/resources/views/admin/cheatsheet/dev_cheatsheet_HTML_CSS.php",
+		"/home/thibault/Code/organit/resources/views/admin/cheatsheet/dev_cheatsheet_javascript.php",
+		"/home/thibault/Code/organit/resources/views/admin/cheatsheet/dev_cheatsheet_laravel.php",
+		"/home/thibault/Code/organit/resources/views/admin/dev_cheatsheet.php",
+		"/home/thibault/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/thibault/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/thibault/Code/organit/resources/views/admin/manage/shell_install.blade.php",
+		"/home/thibault/Code/organit/app/Field.php",
+		"/home/thibault/Code/cfjjb/app/routes.php",
+		"/home/thibault/Code/cfjjb/app/controllers/web/ClubController.php",
+		"/tmp/fz3temp-1/ClubController.php",
+		"/home/thibault/Code/organit/app/Http/Controllers/Admin/TableController.php",
+		"/home/thibault/Code/organit/database/migrations/2016_03_21_212336_create_pivotextrafields_table.php",
+		"/home/thibault/Code/organit/resources/crud-generator/edit.blade.stub",
+		"/home/thibault/Code/organit/resources/views/admin/devis/edit.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/table/index.blade.php",
+		"/home/thibault/Code/organit/app/Http/Controllers/Admin/FieldController.php",
+		"/home/thibault/Code/organit/resources/views/admin/field/index.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/field/_form.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/field/create.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/field/edit.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/table/_form.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/table/create.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/table/edit.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/process/create.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/process/edit.blade.php",
+		"/home/thibault/Code/organit/resources/crud-generator/create.blade.stub",
+		"/home/thibault/Code/organit/resources/crud-generator/controller.stub",
+		"/home/thibault/Code/organit/resources/views/admin/dashboard.blade.php",
+		"/home/thibault/Code/organit/app/Http/Controllers/Admin/ProcessController.php",
+		"/home/thibault/Code/organit/app/Http/routes.php",
+		"/home/thibault/Code/organit/app/Http/Controllers/Admin/UserController.php",
+		"/home/thibault/Code/organit/app/Http/Controllers/Admin/ProjectController.php",
+		"/home/thibault/Code/organit/app/Http/Controllers/Admin/FactureController.php",
+		"/home/thibault/Code/organit/app/Http/Controllers/Admin/ContactController.php",
+		"/home/thibault/Code/organit/app/Http/Controllers/Admin/ClientController.php",
+		"/home/thibault/Code/organit/resources/views/admin/devis/_form.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/devis/index.blade.php",
+		"/home/thibault/Code/organit/app/Http/Controllers/Admin/DevisController.php",
+		"/home/thibault/Code/organit/resources/crud-generator/index.blade.stub",
+		"/home/thibault/Code/organit/resources/views/admin/devis/_tables.blade.php",
+		"/home/thibault/Code/organit/app/Devi.php",
+		"/home/thibault/Code/devil/config/app.php",
+		"/home/thibault/Code/devil/composer.json",
+		"/home/thibault/Code/devil/tests/integration.php/UserTest.php",
+		"/home/thibault/Code/devil/resources/views/under_construction.blade.php",
+		"/home/thibault/Code/devil/resources/views/layouts/default.blade.php",
+		"/home/thibault/Code/devil/vendor/laracasts/flash/src/views/message.blade.php",
+		"/home/thibault/Code/devil/app/Http/Middleware/Ip.php",
+		"/home/thibault/Code/devil/tests/ExampleTest.php",
+		"/home/thibault/.config/sublime-text-3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/home/thibault/.config/sublime-text-3/Packages/Testify/Default (Linux).sublime-keymap",
+		"/home/thibault/Code/devil/app/Http/Middleware/yearsOld.php",
+		"/home/thibault/Code/devil/app/Devil/Flash/flash.php",
+		"/home/thibault/Code/devil/vendor/laracasts/flash/src/Laracasts/Flash/FlashNotifier.php",
+		"/home/thibault/Code/devil/app/Providers/FlashServiceProvider.php",
+		"/home/thibault/Code/devil/app/Providers/AppServiceProvider.php",
+		"/home/thibault/Code/devil/vendor/laracasts/flash/src/Laracasts/Flash/FlashServiceProvider.php",
+		"/home/thibault/Code/devil/app/Http/routes.php",
+		"/home/thibault/Code/devil/resources/views/public/footer.blade.php",
+		"/home/thibault/Code/devil/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/thibault/Code/devil/resources/lang/en/passwords.php",
+		"/home/thibault/Code/devil/resources/views/public/welcome.blade.php",
+		"/home/thibault/Bureau/Laravel - ma guille de route",
+		"/home/thibault/Code/devil/resources/lang/fr/auth.php",
+		"/home/thibault/Code/devil/resources/lang/en/validation.php",
+		"/home/thibault/Code/mlm-valley/resources/lang/fr/pagination.php",
+		"/home/thibault/Code/mlm-valley/resources/lang/fr/reminders.php",
+		"/home/thibault/Code/devil/resources/lang/fr/core.php",
+		"/home/thibault/Code/devil/resources/lang/en/core.php",
+		"/home/thibault/Code/devil/resources/lang/en/crud.php",
+		"/home/thibault/Code/devil/resources/lang/fr/crud.php",
+		"/home/thibault/Code/devil/.env",
+		"/home/thibault/Code/devil/resources/lang/en/pagination.php",
+		"/home/thibault/.bashrc~",
+		"/home/thibault/.bash_aliases",
+		"/home/thibault/.bash_profile",
+		"/home/thibault/Code/mlm-valley/resources/lang/fr/core.php",
+		"/home/thibault/Code/devil/vendor/laracasts/flash/src/Laracasts/Flash/Flash.php",
+		"/home/thibault/Code/devil/app/Devil/flash.php",
+		"/home/thibault/Code/devil/resources/views/public/header.blade.php",
+		"/home/thibault/Code/devil/app/Http/Kernel.php",
+		"/home/thibault/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+		"/home/thibault/Code/devil/_ide_helper.php",
+		"/home/thibault/Code/devil/database/migrations/2016_03_19_143901_add_cashier_columns.php",
+		"/home/thibault/Code/mlm-valley/composer.json",
+		"/home/thibault/Code/devil/resources/views/welcome.blade.php",
+		"/home/thibault/Code/organit/app/Devis.php",
+		"/home/thibault/Code/organit/resources/views/admin/facture/index.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/project/index.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/contact/index.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/client/index.blade.php",
+		"/home/thibault/Code/organit/resources/views/admin/user/index.blade.php",
+		"/tmp/fz3temp-1/home.blade.php",
+		"/home/thibault/Code/cfjjb/app/views/admin/mailing/send.blade.php",
+		"/home/thibault/Code/cfjjb/app/models/User.php",
+		"/home/thibault/Code/cfjjb/app/controllers/admin/UserController.php",
+		"/home/thibault/Code/cfjjb/app/views/admin/users/edit.php",
+		"/tmp/fz3temp-1/User.php",
+		"/home/thibault/Code/cfjjb_with_env/app/models/User.php",
+		"/home/thibault/Code/cfjjb/app/config/app.php",
+		"/home/thibault/Code/plombier/wp-content/themes/shelley/css/custom.css",
+		"/home/thibault/Code/plombier/wp-content/themes/shelley/header.php",
+		"/home/thibault/Code/cfjjb/app/views/web/site/home.blade.php",
+		"/home/thibault/Code/cfjjb/app/controllers/web/SiteController.php",
+		"/home/thibault/Code/cfjjb/.gitignore",
+		"/home/thibault/Code/cfjjb/app/controllers/admin/ArticleController.php",
+		"/home/thibault/Code/cfjjb/app/views/admin/articles/edit.php",
+		"/home/thibault/Code/cfjjb/app/views/admin/articles/list.php",
+		"/home/thibault/Code/cfjjb/app/views/admin/homepage/index.blade.php",
+		"/home/thibault/Code/cfjjb/app/views/admin/layout.blade.php",
+		"/home/thibault/Code/cfjjb/app/storage/logs/laravel.log",
+		"/home/thibault/.config/sublime-text-3/Packages/User/Projects/untitled.sublime-project",
+		"/home/thibault/Code/cfjjb/cfjjb.sublime-project"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/home/thibault/Code/organit/vendor/appzcoder",
+			"/home/thibault/Code/devil",
+			"/home/thibault/Code/0-themes/porto_2/",
+			"/home/thibault/Code/0-themes/porto_2",
+			"/home/thibault/Code/organit/resources",
+			"/home/thibault/Code/cfjjb/app/controllers",
+			"/home/thibault/Code/cfjjb",
+			"/home/thibault/Code/cfjjb/app/controllers/admin",
+			"/home/thibault/Code/cfjjb/public",
+			"/home/thibault/Code/cfjjb",
+			"/home/thibault/Code/organit/database/migrations",
+			"/home/thibault/Code/organit",
+			"<current file>",
+			"/home/thibault/Code/organit/resources/views/admin",
+			"/home/thibault/Code/organit",
+			"/home/thibault/Code/plombier",
+			"/home/thibault/Code/plombier/wp-content",
+			"/home/thibault/Code/targethnic/wp-content/themes/oxygen",
+			"/home/thibault/Code/targethnic",
+			"/home/thibault/Code/organit",
+			"/home/thibault/Code/organit/resources/views/admin",
+			"/home/thibault/Code/organit",
+			"/home/thibault/Code/organit/resources/views/auth",
+			"/home/thibault/Code/organit/resources/crud-generator",
+			"/home/thibault/Code/organit/resources/views/crud-generator",
+			"/home/thibault/Code/organit/resources/views/admin/client"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"web",
+			"xxxxx",
+			"h5",
+			"code",
+			"</h2>",
+			"h2",
+			"li",
+			"cheatsteel",
+			"-",
+			"createField",
+			"createfi",
+			"createf",
+			"createRadioField",
+			"createInputField",
+			"formHeadingHtml",
+			"ctrl",
+			"layou",
+			"col",
+			"spl",
+			"editField",
+			"ff",
+			"displayAddFieldForm",
+			"displayEditFieldForm",
+			"displayFieldForm",
+			"add",
+			"showFieldForm",
+			"App\\Field",
+			"fieldName",
+			"fieldNameList",
+			"success",
+			"TableList",
+			"addField",
+			"$table",
+			"Fieldlist",
+			"index",
+			"type=\"text/javascript\" ",
+			"fakerserviceprovider",
+			"ˆ",
+			"Ž",
+			"envoyŽ",
+			"Ž",
+			" the space",
+			"Space was ",
+			"space_",
+			"Notice",
+			"style.switcher",
+			"master/",
+			"master",
+			"/themes/porto_2",
+			"inArray",
+			"col-sm-6",
+			"</th>",
+			"edit",
+			"class=\"btn btn-success btn-xs\"",
+			"attr",
+			"upper",
+			"  id=\"menu-item-",
+			"class=",
+			"arbitrage",
+			"/",
+			"abso",
+			"abs",
+			"return \\Redirect::back()->withInputs();",
+			"\n		",
+			"return \\Redirect::back()->withInputs();\n",
+			"return \\Redirect::back()->withInputs();",
+			"switckButton",
+			"script",
+			"slider",
+			"/articles/{",
+			"/articles",
+			"true",
+			"show_participants",
+			"_participants",
+			"td",
+			"homep",
+			"home",
+			"false",
+			"true",
+			"tinyMCE",
+			"show_btn_video",
+			"zone_id",
+			"competition_pictures",
+			"<div class=\"grid12\">",
+			"show_planning",
+			"show_btn_video",
+			"show_btn_photos",
+			"show_participants",
+			"Delete",
+			"<form",
+			"form",
+			"form_label",
+			"form",
+			"paid",
+			"top",
+			"=\"#top",
+			"#top",
+			"transactions.created_at",
+			"homestead",
+			"=> 'homestead",
+			"> '",
+			"<?php",
+			"mail",
+			"<\\?( |\\n)",
+			"textarea",
+			"mail",
+			"line",
+			"tab",
+			"34",
+			"34, 45, 51",
+			"38, 50, 56",
+			"33, 33, 33",
+			"27, 27, 27",
+			"38, 50, 56",
+			"change",
+			"Laracasts\\Generators\\GeneratorsServiceProvider",
+			"see",
+			"<a href=\"\">",
+			"...",
+			"ct_st",
+			"gg_drive_link_propal",
+			"2",
+			"1/2",
+			"/2",
+			"'=>'",
+			"=>",
+			"place",
+			"la"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<?php ",
+			"<?php",
+			"@extends('layouts.admin')",
+			"@extends('layouts.master')",
+			"@extends('layouts.admin')",
+			"@extends('layouts.default')"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1644,
+								1644
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 729.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Middleware/Admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								519
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/layouts/admin.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2896,
+								2896
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1863.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/layouts/app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3020,
+								3020
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1539.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/.htaccess",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Http/Controllers/WebController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 729.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/views/web/portfolio.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2087,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								906,
+								906
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "resources/views/admin/table/show.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9287,
+								9287
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "resources/crud-generator/show.blade.stub",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "resources/views/admin/cheatsheet/dev_cheatsheet_laravel.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 220.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 192.0
+	},
+	"pinned_build_system": "",
+	"project": "organit.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"web/portfolio",
+				"resources/views/web/portfolio.blade.php"
+			],
+			[
+				"web",
+				"app/Http/Controllers/WebController.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"adminc",
+				"app/Http/Controllers/AdminController.php"
+			],
+			[
+				"shell",
+				"resources/views/admin/manage/shell_install.blade.php"
+			],
+			[
+				"field.p",
+				"app/Field.php"
+			],
+			[
+				"tab",
+				"app/Http/Controllers/Admin/TableController.php"
+			],
+			[
+				"shell_inst",
+				"resources/views/admin/manage/shell_install.blade.php"
+			],
+			[
+				"routes",
+				"app/Http/routes.php"
+			],
+			[
+				"/vi/ad/",
+				"resources/views/admin/dashboard.blade.php"
+			],
+			[
+				"processc",
+				"app/Http/Controllers/Admin/ProcessController.php"
+			],
+			[
+				"tablec",
+				"app/Http/Controllers/Admin/TableController.php"
+			],
+			[
+				"laracasts/flash/src/laracasts/flash/flashnotifier",
+				"vendor/laracasts/flash/src/Laracasts/Flash/FlashNotifier.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"laracasts/flash/",
+				"vendor/laracasts/flash/src/Laracasts/Flash/FlashNotifier.php"
+			],
+			[
+				"laracasts/flash/flash",
+				"vendor/laracasts/flash/src/Laracasts/Flash/Flash.php"
+			],
+			[
+				"devis",
+				"app/Devis.php"
+			],
+			[
+				"devis.php",
+				"app/Devis.php"
+			],
+			[
+				"amin/mail/se",
+				"app/views/admin/mailing/send.blade.php"
+			],
+			[
+				"adm/user/ed",
+				"app/views/admin/users/edit.php"
+			],
+			[
+				"rou",
+				"app/routes.php"
+			],
+			[
+				"user.",
+				"app/models/User.php"
+			],
+			[
+				"/admin/users/edit",
+				"app/views/admin/users/edit.php"
+			],
+			[
+				"web/sitecontroller",
+				"app/controllers/web/SiteController.php"
+			],
+			[
+				"home",
+				"app/views/web/site/home.blade.php"
+			],
+			[
+				"compet",
+				"app/models/Competition.php"
+			],
+			[
+				"ad/competi",
+				"app/controllers/admin/CompetitionController.php"
+			],
+			[
+				"competition.",
+				"app/models/Competition.php"
+			],
+			[
+				"com/edi",
+				"app/views/admin/competitions/edit.php"
+			],
+			[
+				"compe",
+				"app/controllers/admin/CompetitionController.php"
+			],
+			[
+				"admin/competitions/picture_add",
+				"app/views/admin/competitions/picture_add.php"
+			],
+			[
+				"web/site/article",
+				"app/views/web/site/article.php"
+			],
+			[
+				"articlec",
+				"app/controllers/admin/ArticleController.php"
+			],
+			[
+				"competition",
+				"app/controllers/admin/CompetitionController.php"
+			],
+			[
+				"admin/articlecontroller",
+				"app/controllers/admin/ArticleController.php"
+			],
+			[
+				"site/home",
+				"app/views/web/site/home.blade.php"
+			],
+			[
+				"home.b",
+				"app/views/admin/home.blade.php"
+			],
+			[
+				"admin/inscriptioncontroller",
+				"app/controllers/admin/InscriptionController.php"
+			],
+			[
+				"vie/ad/inscr",
+				"app/views/admin/inscriptions/edit.php"
+			],
+			[
+				"acc",
+				"app/controllers/admin/AccountingController.php"
+			],
+			[
+				"app/con/data",
+				"app/config/database.php"
+			],
+			[
+				"vie/comp/edi",
+				"app/views/admin/competitions/edit.php"
+			],
+			[
+				"vi/compet/li",
+				"app/views/admin/competitions/list.php"
+			],
+			[
+				"top",
+				"app/views/web/competitions/tops.blade.php"
+			],
+			[
+				"routes.php",
+				"app/routes.php"
+			],
+			[
+				"admin/mailing/send",
+				"app/views/admin/mailing/send.php"
+			],
+			[
+				"mailing",
+				"app/controllers/admin/MailingController.php"
+			],
+			[
+				"",
+				"cfjjb/app/config/database.php"
+			],
+			[
+				"cfjb/home",
+				"cfjjb/app/views/web/site/home.blade.php"
+			],
+			[
+				"illuminate/auth/userinterface",
+				"cfjjb/vendor/laravel/framework/src/Illuminate/Auth/UserInterface.php"
+			],
+			[
+				"adm/devis/_form",
+				"resources/views/admin/devis/_form.blade.php"
+			],
+			[
+				"/layout/a",
+				"resources/views/layouts/admin.blade.php"
+			],
+			[
+				"devis.",
+				"app/Devis.php"
+			],
+			[
+				"add_fields_papa_from_devis_table",
+				"database/migrations/2016_03_11_160713_add_fields_papa_from_devis_table.php"
+			],
+			[
+				"adm/dev/ed",
+				"resources/views/admin/devis/edit.blade.php"
+			],
+			[
+				"adm/de/_",
+				"resources/views/admin/devis/_form.blade.php"
+			],
+			[
+				"devisc",
+				"app/Http/Controllers/Admin/DevisController.php"
+			],
+			[
+				"clientc",
+				"app/Http/Controllers/Admin/ClientController.php"
+			],
+			[
+				"userc",
+				"app/Http/Controllers/Admin/UserController.php"
+			],
+			[
+				"clienc",
+				"app/Http/Controllers/Admin/ClientController.php"
+			],
+			[
+				"authc",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"header",
+				"wp-content/themes/shelley/header.php"
+			],
+			[
+				"head",
+				"wp-includes/theme-compat/header.php"
+			],
+			[
+				"web/me",
+				"resources/views/web/method.blade.php"
+			],
+			[
+				"/lib/font",
+				"vendor/dompdf/dompdf/lib/fonts/ZapfDingbats.afm"
+			],
+			[
+				"lib/fon",
+				"vendor/dompdf/dompdf/lib/fonts/mustRead.html"
+			],
+			[
+				"lib/font/",
+				"vendor/dompdf/dompdf/lib/fonts/Times-Roman.afm"
+			],
+			[
+				"conf/pdf",
+				"vendor/barryvdh/laravel-dompdf/config/dompdf.php"
+			],
+			[
+				"config/dompdf.php",
+				"vendor/barryvdh/laravel-dompdf/config/dompdf.php"
+			],
+			[
+				"pdf_pro",
+				"resources/views/admin/devis/pdf_propal.blade.php"
+			],
+			[
+				"webc",
+				"app/Http/Controllers/WebController.php"
+			],
+			[
+				"conf/app",
+				"config/app.php"
+			],
+			[
+				"facture",
+				"app/Facture.php"
+			],
+			[
+				"/views/la",
+				"resources/views/layouts/admin.blade.php"
+			],
+			[
+				"contact",
+				"app/Http/Controllers/Admin/ContactController.php"
+			],
+			[
+				"fac",
+				"app/Http/Controllers/Admin/FactureController.php"
+			],
+			[
+				"client",
+				"app/Client.php"
+			],
+			[
+				"vie/clien/",
+				"resources/views/admin/client/create.blade.php"
+			],
+			[
+				"add_f",
+				"database/migrations/2016_03_02_203352_add_fields_from_clients_table.php"
+			],
+			[
+				"add_",
+				"database/migrations/2016_03_02_202306_add_firm_name_from_clients_table.php"
+			],
+			[
+				"createclient",
+				"database/migrations/2016_03_02_104541_create_clients_table.php"
+			],
+			[
+				"client.p",
+				"app/Client.php"
+			],
+			[
+				"lay/ad",
+				"resources/views/layouts/admin.blade.php"
+			],
+			[
+				"pro",
+				"app/Project.php"
+			],
+			[
+				"app/pr/app",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"create_facture_project_table",
+				"database/migrations/2016_03_02_151327_create_facture_project_table.php"
+			],
+			[
+				"layo/a",
+				"resources/views/layouts/admin.blade.php"
+			],
+			[
+				"app",
+				"config/app.php"
+			],
+			[
+				"aut",
+				"app/Http/Middleware/Authenticate.php"
+			],
+			[
+				"auth",
+				"app/Http/Middleware/Authenticate.php"
+			],
+			[
+				"mid/auth",
+				"app/Http/Middleware/Authenticate.php"
+			],
+			[
+				"admin.p",
+				"app/Http/Middleware/Admin.php"
+			],
+			[
+				"homec",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"crud",
+				"config/crudgenerator.php"
+			],
+			[
+				"mid/adm",
+				"app/Http/Middleware/Admin.php"
+			],
+			[
+				"port",
+				"resources/views/web/portfolio_item.blade.php"
+			],
+			[
+				"vie/por",
+				"resources/views/web/portfolio_item.blade.php"
+			],
+			[
+				"mission.",
+				"app/Mission.php"
+			],
+			[
+				"update",
+				"database/migrations/2016_03_02_091555_update_creation_table.php"
+			],
+			[
+				"re/view",
+				"resources/views/web/portfolio.blade.php"
+			],
+			[
+				"creation",
+				"app/Creation.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/.config/sublime-text-3/Packages/User/Projects/organit.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
